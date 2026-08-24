@@ -1,0 +1,71 @@
+{
+  "modules": [],
+  "jobs": [
+    {
+      "id": "5b111555-0863-44e5-abed-a98e827c8671",
+      "topic": "test",
+      "stage": "error",
+      "completedStages": [
+        "understanding",
+        "researching",
+        "researching",
+        "analyzing",
+        "curriculum"
+      ],
+      "createdAt": "2026-08-18T11:01:12.299Z",
+      "error": "Ollama is currently unavailable. Start ollama serve and try again."
+    },
+    {
+      "id": "d65d6a20-b0c4-492b-91e6-ec2c79ad3224",
+      "topic": "test",
+      "stage": "error",
+      "completedStages": [
+        "understanding",
+        "researching",
+        "analyzing",
+        "curriculum"
+      ],
+      "createdAt": "2026-08-18T08:49:34.291Z",
+      "error": "Ollama is currently unavailable. Start ollama serve and try again."
+    },
+    {
+      "id": "3fc3dfac-b53c-406f-bcf0-161e85c1a1fe",
+      "topic": "Azure Fundamentals",
+      "stage": "error",
+      "completedStages": [
+        "understanding",
+        "researching",
+        "analyzing",
+        "curriculum"
+      ],
+      "createdAt": "2026-08-18T08:47:56.290Z",
+      "error": "Ollama is currently unavailable. Start ollama serve and try again."
+    },
+    {
+      "id": "fec9801e-08e8-471a-ae63-82d306bc6fe4",
+      "topic": "Microsoft Active Directory",
+      "stage": "error",
+      "completedStages": [
+        "understanding",
+        "researching",
+        "analyzing",
+        "curriculum"
+      ],
+      "createdAt": "2026-08-18T08:45:48.537Z",
+      "error": "Ollama is currently unavailable. Start ollama serve and try again."
+    },
+    {
+      "id": "50ba773c-ea4a-43af-af93-25b840b767eb",
+      "topic": "Microsoft Active Directory",
+      "stage": "error",
+      "completedStages": [
+        "understanding",
+        "researching",
+        "analyzing",
+        "curriculum"
+      ],
+      "createdAt": "2026-08-18T08:45:12.783Z",
+      "error": "Generation could not be completed. Check your AI service settings and try again."
+    }
+  ]
+}
